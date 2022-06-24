@@ -1,0 +1,30 @@
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    background-color: aquamarine;
+}
+h1{
+    text-align: left;
+
+    
+}
+.container{
+    font-family: 'Roboto', sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 200px;
+    margin-left: 180px;
+ 
+    
+}
+.buttons button{
+    font-size: 30px;
+    border: none;
+    border-radius: 10px;
+}
+.main-text{
+    font-size: 35px;
+}
