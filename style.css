@@ -28,3 +28,6 @@ h1{
 .main-text{
     font-size: 35px;
 }
+.buttons .rest{
+  background-color: red;
+}
